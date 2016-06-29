@@ -1,0 +1,33 @@
+# === COLOR MAP ===
+
+export COLOR_BLACK="\033[0;30m"
+export COLOR_RED="\033[0;31m"
+export COLOR_GREEN="\033[0;32m"
+export COLOR_BROWN="\033[0;33m"
+export COLOR_BLUE="\033[0;34m"
+export COLOR_PURPLE="\033[0;35m"
+export COLOR_CYAN="\033[0;36m"
+export COLOR_LIGHT_GREY="\033[0;37m"
+export COLOR_DARK_GREY="\033[1;30m"
+export COLOR_LIGHT_RED="\033[1;31m"
+export COLOR_LIGHT_GREEN="\033[1;32m"
+export COLOR_YELLOW="\033[1;33m"
+export COLOR_LIGHT_BLUE="\033[1;34m"
+export COLOR_LIGHT_PURPLE="\033[1;35m"
+export COLOR_LIGHT_CYAN="\033[1;36m"
+export COLOR_WHITE="\033[1;37m"
+
+export COLOR_DEFAULT="\033[0m"
+
+export COLOR_BLING_BLUE="\033[44;37;5m"
+export COLOR_BLING_PURPLE="\033[45;37;5m"
+export COLOR_BLING_BLACK="\033[40;37;5m"
+export COLOR_BLING_RED="\033[41;37;5m"
+export COLOR_BLING_GREEN="\033[42;37;5m"
+export COLOR_BLING_YELLOW="\033[43;37;5m"
+export COLOR_BLING_LIGHT_BLUE="\033[46;37;5m"
+export COLOR_BLING_WHITE="\033[47;30;5m"
+
+# === COLORS ===
+# use echo -e $COLOR to enable
+
