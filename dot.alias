@@ -1,0 +1,11 @@
+#
+
+alias ll='ls -alF'
+alias la='ls -A'
+alias l='ls -CF'
+export LANG="en_US.UTF-8"
+#export PS1='[\u@dev \W]\$ '
+#export WORKSPACE="$HOME/workspace"
+export PATH=$HOME/bin:$PATH
+
+#cd $WORKSPACE
